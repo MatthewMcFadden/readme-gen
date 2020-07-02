@@ -1,0 +1,27 @@
+{
+  "name": "readme-gen",
+  "version": "1.0.0",
+  "description": "An easy to use Readme generator for all of your project needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewMcFadden/readme-gen.git"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "projects"
+  ],
+  "author": "Matthew McFadden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewMcFadden/readme-gen/issues"
+  },
+  "homepage": "https://github.com/MatthewMcFadden/readme-gen#readme",
+  "dependencies": {
+    "inquirer": "^7.2.0"
+  }
+}
